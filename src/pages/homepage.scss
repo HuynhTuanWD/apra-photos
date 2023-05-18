@@ -1,0 +1,22 @@
+.home-page {
+  .photos-thumbnail {
+    object-fit: cover;
+  }
+  .box-search-photos {
+    max-width: 500px;
+    width: 100%;
+    margin: 30px auto;
+  }
+  .photos-pagination {
+    margin-top: 20px;
+    text-align: center;
+  }
+}
+.show-photo-modal {
+  .ant-modal-body {
+    text-align: center;
+  }
+  .photos-thumbnail {
+    display: inline-block;
+  }
+}

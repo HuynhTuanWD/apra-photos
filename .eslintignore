@@ -1,0 +1,11 @@
+/node_modules
+/.next
+
+**/*.sentryclirc
+
+.eslintrc
+.eslintrc.js
+
+./src/pages/_error.js
+
+/libs
